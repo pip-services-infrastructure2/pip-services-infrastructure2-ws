@@ -1,0 +1,32 @@
+#!/usr/bin/env pwsh
+
+git clone git@github.com:pip-services-infrastructure2/service-statistics-node.git
+git clone git@github.com:pip-services-infrastructure2/service-sms-node.git
+git clone git@github.com:pip-services-infrastructure2/service-settings-node.git
+git clone git@github.com:pip-services-infrastructure2/service-pushnotifications-node.git
+git clone git@github.com:pip-services-infrastructure2/service-perfmon-node.git
+git clone git@github.com:pip-services-infrastructure2/service-metrics-node.git
+git clone git@github.com:pip-services-infrastructure2/service-logging-node.git
+git clone git@github.com:pip-services-infrastructure2/service-locks-node.git
+git clone git@github.com:pip-services-infrastructure2/service-jobs-node.git
+git clone git@github.com:pip-services-infrastructure2/service-facets-node.git
+git clone git@github.com:pip-services-infrastructure2/service-eventlog-node.git
+git clone git@github.com:pip-services-infrastructure2/service-email-node.git
+git clone git@github.com:pip-services-infrastructure2/service-clusters-node.git
+git clone git@github.com:pip-services-infrastructure2/service-blobs-node.git
+git clone git@github.com:pip-services-infrastructure2/facade-infrastructure-node.git
+git clone git@github.com:pip-services-infrastructure2/client-statistics-node.git
+git clone git@github.com:pip-services-infrastructure2/client-sms-node.git
+git clone git@github.com:pip-services-infrastructure2/client-settings-node.git
+git clone git@github.com:pip-services-infrastructure2/client-settings-go.git
+git clone git@github.com:pip-services-infrastructure2/client-perfmon-node.git
+git clone git@github.com:pip-services-infrastructure2/client-metrics-node.git
+git clone git@github.com:pip-services-infrastructure2/client-logging-node.git
+git clone git@github.com:pip-services-infrastructure2/client-locks-node.git
+git clone git@github.com:pip-services-infrastructure2/client-jobs-node.git
+git clone git@github.com:pip-services-infrastructure2/client-facets-node.git
+git clone git@github.com:pip-services-infrastructure2/client-eventlog-node.git
+git clone git@github.com:pip-services-infrastructure2/client-email-node.git
+git clone git@github.com:pip-services-infrastructure2/client-email-go.git
+git clone git@github.com:pip-services-infrastructure2/client-clusters-node.git
+git clone git@github.com:pip-services-infrastructure2/client-blobs-node.git
